@@ -1,2 +1,2 @@
 # kmeans_location_clustering
-A machine learning to cluster similar establishment locations based on their longitude and latitude 
+A machine learning model to cluster similar establishment locations based on their longitude and latitude 
